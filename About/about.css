@@ -1,0 +1,23 @@
+h1#LoginScreen{
+    color: aqua;
+}
+td#password{
+color: aqua;
+}
+td#email{
+    color: aqua;
+}
+legend#Signup{
+    color: aqua;
+    font-style: oblique;
+    
+}
+table#dye{
+    background-color: blue;
+}
+fieldset#Signup{
+    background-color: blue;
+}
+input#email{
+    background-color: rgb(226, 225, 225)
+}

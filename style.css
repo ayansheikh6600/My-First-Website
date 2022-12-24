@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Verdana, sans-serif;}
+h1#MainHeading , h2 {
+    color: aqua;}
+p#p1 {
+    color: violet;
+    font-size: 20px;}
+img{
+    background: fixed;
+    background-repeat: no-repeat;
+    
+}
